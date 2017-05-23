@@ -1,0 +1,8 @@
+#include <studia.h>
+int main(){
+int a ;
+printf("bir sayı giriniz");
+scanf("%d",&a);
+printf("girdiğniz sayı : %d",a);
+return 0;
+}
